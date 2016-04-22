@@ -54,7 +54,7 @@ address:
   - line: Gedempt Hamerkanaal 12
   - line: 1021KM Amsterdam
   - line: 020 6326544
-  - line: info@hamerkanaal.nl
+  - line: <a href="mailto:info@hamerkanaal.nl">info@hamerkanaal.nl</a>
 
 # Credits content
 credits: 'Twijfel niet om contact op te nemen. Vragen staat vrij dus... <a href="mailto:info@hamerkanaal.nl"><font color="6ebdbd">mail ons!</font></a>.'
