@@ -88,11 +88,7 @@ header {
 header .container {
     padding-top: 100px;
     padding-bottom: 50px;
-    background: #18bc9c;
-    background-size: cover;
-    background-image: url("http://www.hamerkanaal.nl/img/banner.jpg"
-}
-}
+    }
 
 header img {
     display: block;
