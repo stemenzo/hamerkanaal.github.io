@@ -2,7 +2,7 @@
 title: Hamerkanaal
 email: info@hamerkanaal.nl
 url: http://www.hamerkanaal.nl
-description: "Studio Hamerkanaal voor Voice over, sprekers en audionabewerking. De studio om in een persoonlijke omgeving de top stem bij je productie op te nemen. "
+description: "Studio Hamerkanaal voor voice over, sprekers en audionabewerking in Amsterdam Noord. Gespecialiseerd in opnames van voiceovers, sprekers en stemmen. "
 skills: "voice overs - sprekers - stemmen"
 meta_author: Studio Hamerkanaal
 
@@ -39,9 +39,9 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: instagram
-    url: http://instagram.com/splitsecondsoundamsterdam
+    url: http://instagram.com/hamerkanaal
   - title: facebook
-    url: http://facebook.com/splitsecondsound
+    url: http://facebook.com/hamerkanaal
  # - title: stack-overflow
  #   url: http://stackoverflow.com/questions/tagged/jekyll
  # - title: bitbucket
@@ -54,9 +54,10 @@ address:
   - line: Gedempt Hamerkanaal 12
   - line: 1021KM Amsterdam
   - line: 020 6326544
+  - line: info@hamerkanaal.nl
 
 # Credits content
-credits: 'Twijfel niet om contact op te nemen. Vragen staat vrij en we hebben geweldige koffie... <a href="mailto:info@hamerkanaal.nl"><font color="6ebdbd">Mail ons!</font></a>.'
+credits: 'Twijfel niet om contact op te nemen. Vragen staat vrij dus... <a href="mailto:info@hamerkanaal.nl"><font color="6ebdbd">mail ons!</font></a>.'
 
 # Build settings
 markdown: kramdown
