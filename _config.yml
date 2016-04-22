@@ -57,7 +57,7 @@ address:
   - line: <a href="mailto:info@hamerkanaal.nl">info@hamerkanaal.nl</a>
 
 # Credits content
-credits: 'Twijfel niet om contact op te nemen. Vragen staat vrij dus... <a href="mailto:info@hamerkanaal.nl"><font color="6ebdbd">mail ons!</font></a>.'
+credits: 'Twijfel niet om contact op te nemen. Vragen staat vrij dus... Bel of <a href="mailto:info@hamerkanaal.nl"><font color="6ebdbd">mail ons!</font></a>.'
 
 # Build settings
 markdown: kramdown
