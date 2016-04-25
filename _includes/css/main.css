@@ -42,19 +42,19 @@ hr.star-primary {
     padding: 0;
     max-width: 250px;
     border: 0;
-    border-top: solid 5px;
+    border-top: solid 0px;
     text-align: center;
 }
 
 hr.star-light:after,
 hr.star-primary:after {
-    content: "\f130";
+    content: "\f068""\f068""\f068""\f068""\f068""\00a0""\f130""\00a0""\f068""\f068""\f068""\f068""\f068";
     display: inline-block;
     position: relative;
     top: -.7em;
     padding: 0 .25em;
     font-family: FontAwesome;
-    font-size: 2em;
+    font-size: 1.25em;
 }
 
 hr.star-light {
@@ -63,7 +63,7 @@ hr.star-light {
 
 hr.star-light:after {
     color: #fff;
-    background-color: #{{ site.color.primary }};
+    background-color:;
 }
 
 hr.star-primary {
@@ -182,6 +182,10 @@ section h2 {
 section.success {
     color: #fff;
     background: #{{ site.color.primary }};
+	background: url(../img/mic_bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
 }
 
 @media(max-width:767px) {
