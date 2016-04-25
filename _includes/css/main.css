@@ -182,7 +182,7 @@ section h2 {
 section.success {
     color: #fff;
     background: #{{ site.color.primary }};
-	background: url(../img/mic_bg.jpg);
+	background: url(http://hamerkanaal.nl/img/mic_bg.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
