@@ -198,25 +198,19 @@ section.success {
     }
 }
 
+
 #portfolio .portfolio-item {
-    width: 100%;
-    padding: 200px 0;
-    color: #fff;
-    background: url(http://hamerkanaal.nl/img/logos_hk.png) no-repeat center center scroll;
-    background-color: #fff;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+    right: 0;
+    margin: 0 0 15px;
 }
 
 
 @media(min-width:767px) {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
-        padding: 350px 0
     }
 }
+
 
 .btn-outline {
     margin-top: 15px;
