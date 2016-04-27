@@ -4,6 +4,16 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+ @font-face {
+  font-family: 'NHL-Edge-Montreal';
+  src: url('/fonts/NHL-Edge-Montreal.eot'); /* IE9 Compat Modes */
+  src: url('/fonts/NHL-Edge-Montreal.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/fonts/NHL-Edge-Montreal.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/fonts/NHL-Edge-Montreal.woff') format('woff'), /* Pretty Modern Browsers */
+       url('/fonts/NHL-Edge-Montreal.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('/fonts/NHL-Edge-Montreal.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
 body {
     overflow-x: hidden;
 }
@@ -31,9 +41,9 @@ h3,
 h4,
 h5,
 h6 {
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 300;
+
+    font-family: 'NHL-Edge-Montreal',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: lighter;
 }
 
 hr.star-light,
@@ -98,14 +108,14 @@ header img {
 header .intro-text .name {
     display: block;
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'NHL-Edge-Montreal',"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
-    font-weight: 300;
+    font-weight: 100;
 }
 
 header .intro-text .skills {
     font-size: 1.25em;
-    font-weight: 200;
+    font-weight: 100;
 }
 
 @media(min-width:768px) {
@@ -115,11 +125,12 @@ header .intro-text .skills {
     }
 
     header .intro-text .name {
-        font-size: 4.75em;
+        font-size: 4.00em;
     }
 
     header .intro-text .skills {
         font-size: 1.50em;
+        font-weight: 100;
     }
 }
 
@@ -149,7 +160,7 @@ header .intro-text .skills {
 
 .navbar {
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'NHL-Edge-Montreal',"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 300;
 }
 
