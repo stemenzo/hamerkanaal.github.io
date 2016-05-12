@@ -357,9 +357,16 @@ footer .footer-below {
     outline: 0;
 }
 
-
 .navbar-nav>.active>a {
     background-color: #{{ site.color.secondary-dark }} !important;
+}
+
+.v-h {
+    position: absolute !important;
+    height: 1px; width: 1px; 
+    overflow: hidden;
+    clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+    clip: rect(1px, 1px, 1px, 1px);
 }
 
 /* Fix modal mouse wheel issues */
