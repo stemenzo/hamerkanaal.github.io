@@ -14,6 +14,7 @@ Disallow: /_site/mail/
 Disallow: /_site/non/
 Disallow: /_site/web development
 Disallow: /_includes/css
+Disallow: /cdn-cgi/l/email-protection
 
 
 
