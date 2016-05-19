@@ -43,8 +43,8 @@ social:
     url: http://instagram.com/hamerkanaal
   - title: facebook
     url: http://facebook.com/hamerkanaal
- # - title: stack-overflow
- #   url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: google-plus
+    url: https://plus.google.com/+HamerkanaalNl/
  # - title: bitbucket
  #   url: http://bitbucket.org/jekyll
  # - title: github
