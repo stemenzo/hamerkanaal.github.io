@@ -46,6 +46,8 @@ h6 {
     font-weight: lighter;
 }
 
+audio { width: 90%; display: block; margin:10px; }
+
 hr.star-light,
 hr.star-primary {
     margin: 25px auto 30px;
