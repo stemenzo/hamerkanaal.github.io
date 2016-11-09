@@ -190,10 +190,6 @@ header .intro-text .products {
     outline: 0;
 }
 
-.navbar p {
-    font-size: 0.5em;
-}
-
 .navbar .navbar-nav {
     letter-spacing: 1px;
 }
