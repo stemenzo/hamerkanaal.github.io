@@ -46,6 +46,11 @@ h6 {
     font-weight: lighter;
 }
 
+h5 .navbar-brand 
+    {
+        font-size:0.50em;
+    }
+
 
 hr.star-light,
 hr.star-primary {
@@ -163,6 +168,7 @@ header .intro-text .products {
         transition: all .3s;
     }
 
+	
     .navbar-fixed-top.navbar-shrink {
         padding: 10px 0;
     }
