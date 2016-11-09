@@ -162,7 +162,13 @@ header .intro-text .products {
         -moz-transition: all .3s;
         transition: all .3s;
     }
-
+    .navbar-brand-sub {
+        font-size: 0.50em;
+        -webkit-transition: all .3s;
+        -moz-transition: all .3s;
+        transition: all .3s;
+    }
+	
     .navbar-fixed-top.navbar-shrink {
         padding: 10px 0;
     }
@@ -170,6 +176,8 @@ header .intro-text .products {
     .navbar-fixed-top.navbar-shrink .navbar-brand {
         font-size: 1.5em;
     }
+}	
+	
 }
 
 .navbar {
@@ -180,6 +188,10 @@ header .intro-text .products {
 
 .navbar a:focus {
     outline: 0;
+}
+
+.navbar p {
+    font-size: 0.5em;
 }
 
 .navbar .navbar-nav {
