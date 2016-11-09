@@ -46,6 +46,8 @@ h6 {
     font-weight: lighter;
 }
 
+span { font-size: 0.50em; }
+
 hr.star-light,
 hr.star-primary {
     margin: 25px auto 30px;
