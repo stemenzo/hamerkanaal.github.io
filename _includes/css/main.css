@@ -46,11 +46,9 @@ h6 {
     font-weight: lighter;
 }
 
-h5 .navbar-brand 
-    {
-        font-size:0.50em;
-    }
-
+h5.sub {
+  font-size: 80%;
+}
 
 hr.star-light,
 hr.star-primary {
