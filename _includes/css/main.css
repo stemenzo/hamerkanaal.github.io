@@ -26,6 +26,10 @@ p.small {
     font-size: 13px;
 }
 
+p.clear {
+	clear:both
+}
+
 a,
 a:hover,
 a:focus,
