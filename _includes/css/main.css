@@ -238,10 +238,15 @@ section.success {
 
 
 
+
 @media(min-width:767px) {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
     }
+}
+
+p.clear {
+	margin-top:-3%;
 }
 
 .btn-outline {
