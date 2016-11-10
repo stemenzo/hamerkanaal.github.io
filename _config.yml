@@ -54,9 +54,9 @@ social:
 address:
   - line: Gedempt Hamerkanaal 12
   - line: 1021KM Amsterdam
-  - line: <i class="fa fa-mobile" aria-hidden="true"></i>  020 6326544
-  - line: <a href="mailto:info@hamerkanaal.nl"><i class="fa fa-envelope-o" aria-hidden="true"></i>  info@hamerkanaal.nl</a>
-  - line: <a href="https://www.google.nl/maps/place/Studio+Hamerkanaal/@52.3808579,4.9085393,15z/data=!4m13!1m7!3m6!1s0x47c6090016ea65dd:0x61476f0f36e7902d!2sStudio+Hamerkanaal!3b1!8m2!3d52.3858357!4d4.9258771!3m4!1s0x47c6090016ea65dd:0x61476f0f36e7902d!8m2!3d52.3858357!4d4.9258771" target="_blank"><i class="fa fa-map-o" aria-hidden="true"></i>  bekijk op kaart</a>
+  - line: <i class="fa fa-mobile" aria-hidden="true"></i>&nbsp; 020 6326544
+  - line: <a href="mailto:info@hamerkanaal.nl"><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp; info@hamerkanaal.nl</a>
+  - line: <a href="https://www.google.nl/maps/place/Studio+Hamerkanaal/@52.3808579,4.9085393,15z/data=!4m13!1m7!3m6!1s0x47c6090016ea65dd:0x61476f0f36e7902d!2sStudio+Hamerkanaal!3b1!8m2!3d52.3858357!4d4.9258771!3m4!1s0x47c6090016ea65dd:0x61476f0f36e7902d!8m2!3d52.3858357!4d4.9258771" target="_blank"><i class="fa fa-map-o" aria-hidden="true"></i>&nbsp; bekijk op kaart</a>
 
 # Credits content
 credits: 'Twijfel niet om contact op te nemen. Vragen staat vrij. Bel of <a href="mailto:info@hamerkanaal.nl">mail ons!</a>'
