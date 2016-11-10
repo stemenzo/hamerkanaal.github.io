@@ -27,7 +27,8 @@ p.small {
 }
 
 p.clear {
-	clear:both
+	clear:both;
+	margin-top: -10%;
 }
 
 a,
@@ -51,8 +52,7 @@ h6 {
 }
 
 span { font-size: 0.45em; 
-	   vertical-align: top;
-	   }
+	}
 
 hr.star-light,
 hr.star-primary {
