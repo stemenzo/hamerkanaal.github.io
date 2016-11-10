@@ -28,8 +28,7 @@ p.small {
 
 p.clear {
 	clear:both;
-	margin-top:3%;
-	}
+}
 
 a,
 a:hover,
@@ -243,10 +242,6 @@ section.success {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
     }
-}
-
-p.clear {
-	margin-top:-3%;
 }
 
 .btn-outline {
