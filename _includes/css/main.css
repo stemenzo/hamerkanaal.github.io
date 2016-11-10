@@ -237,6 +237,7 @@ section.success {
 	}
 	
 	p.clear {
+	clear:both;
 	margin-top:-3%;
 	}
 }
