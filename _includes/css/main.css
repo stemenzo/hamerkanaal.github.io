@@ -151,7 +151,7 @@ header .intro-text .products {
 
 @media(min-width:768px) {
     .navbar-fixed-top {
-        padding: 25px 0;
+        padding: 20px 5;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
