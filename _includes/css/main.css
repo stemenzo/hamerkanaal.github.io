@@ -132,6 +132,14 @@ header .intro-text .products {
 	color: #{{ site.color.primary }};
 	font-style: italic;
 }
+
+.splitsecond {
+    font-size: 1.0em;
+    font-weight: 90;
+	color: #{{ site.color.primary }};
+	font-style: italic;
+}
+
 @media(min-width:768px) {
     header .container {
         padding-top: 200px;
