@@ -136,7 +136,7 @@ header .intro-text .products {
 .splitsecond {
     font-size: 1.0em;
     font-weight: 90;
-	color: #{{ site.color.primary }};
+	color: #{{ site.color.secondary }};
 	font-style: italic;
 }
 
