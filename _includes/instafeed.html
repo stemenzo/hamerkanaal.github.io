@@ -19,7 +19,7 @@
     clientId: '73756ace6587463c82d917ca1c663f4d',
     accessToken: '3193242817.73756ac.3974f71d1e9040d48b726b61372498aa',
     resolution: 'standard_resolution',
-    template: {% raw %}'<a href="{{link}}" target="_blank" id="{{id}}"><img src="{{image}}" /></a>'{% endraw %},
+    template: {% raw %}'<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3"><div class="photo-box"><div class="image-wrap"><a href="{{link}}"><img src="{{image}}"></a><div class="likes">{{likes}} Likes</div></div><div class="description">{{caption}}<div class="date">{{model.date}}</div></div></div></div>'{% endraw %},
     sortBy: 'most-recent',
     limit: 4,
     links: false
