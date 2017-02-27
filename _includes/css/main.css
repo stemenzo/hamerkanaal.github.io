@@ -461,3 +461,9 @@ footer .footer-below {
             text-overflow: ellipsis;
         }
     }
+
+    .Blog {
+    background: $lightgrey;
+}
+ 
+}
