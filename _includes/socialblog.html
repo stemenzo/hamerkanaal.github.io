@@ -9,19 +9,16 @@
            </div>
            <div class="row">
                <div class="col-lg-8 col-lg-offset-2">
-                 <div id="socialposts">
-                   
-
+                 <div id="socialposts">              
 <script type="text/javascript">
-    var feed = new Instafeed({
-        get: 'hamerkanaal',
-        userId: '73756ace6587463c82d917ca1c663f4d',
-        filter: function(image) {
-            return image.tags.indexOf('hamerkanaal') >= 0;
-        }
+    var userFeed = new Instafeed({
+        get: 'user',
+        userId: '3193242817',
+        accessToken: 'YOUR_ACCESS_TOKEN'
     });
-    feed.run();
+    userFeed.run();
 </script>
+      
 
       
                  </div>
